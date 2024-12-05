@@ -1,4 +1,4 @@
-﻿{
+{"config": ﻿{
   "package": "com.player.smartvideo.playtube",
   "field1": 0,
   "field2": 0,
@@ -13,4 +13,5 @@
   "field11": 1,
   "field12": 0,
   "field13": 300
+}
 }
